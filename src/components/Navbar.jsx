@@ -91,7 +91,7 @@ const Navbar = ({navIconClicked,darkMode,handleClick,toggleLight}) => {
                     </Link>
                 </li>
                 <li className="py-4 text-2xl">
-                    <Link onClick={handleClick} to="skills" smooth={true} offset={-50} duration={500}>
+                    <Link onClick={handleClick} to="skills" smooth={true} offset={-90} duration={500}>
                         Skills
                     </Link>
                 </li>
