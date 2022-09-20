@@ -32,10 +32,10 @@ const Projects = ({darkMode}) => {
                             </div>
                             <div className="my-2 h-full">
                                 <p className=" text-lg font-bold tracking-wide border-b-[1px] inline">COVID-19 Tracker</p>
-                                <p className="text-xs mt-2 text-justify pl-2">
-                                    <span className="font-bold text-sm">//COVID-19 Tracker </span>allows you to track the latest COVID-19 statistics globally or in a specific country. 
+                                <p className="text-xs mt-2 text-justify">
+                                    <span className="font-bold text-sm">COVID-19 Tracker </span>allows you to track the latest COVID-19 statistics globally or in a specific country. 
                                 </p>
-                                <p className="text-xs mt-2 text-justify pl-2">
+                                <p className="text-xs mt-2 text-justify">
                                     This web application is made with ReactJS and fetching some API with the help of axios.
                                 </p>
                             </div>
@@ -69,8 +69,11 @@ const Projects = ({darkMode}) => {
                             </div>
                             <div className="my-2 h-full">
                                 <p className=" text-lg font-bold tracking-wide border-b-[1px] inline">Weather Now</p>
-                                <p className="text-xs mt-2">
-                                    Weather Now is a basic Weather App made with ReactJS and fetching OpenWeatherMap API using axios. 
+                                <p className="text-xs mt-2 text-justify">
+                                    <span className="font-bold text-sm">Weather Now</span> is a basic Weather App made with ReactJS and fetching OpenWeatherMap API using axios. 
+                                    
+                                </p>
+                                <p className="text-xs mt-2 text-justify">
                                     This web application allows you to search the current weather of a specific place.
                                 </p>
                             </div>
@@ -105,8 +108,11 @@ const Projects = ({darkMode}) => {
                             </div>
                             <div className="my-2 h-full">
                                 <p className=" text-lg font-bold tracking-wide border-b-[1px] inline">Netflix Clone</p>
-                                <p className="text-xs mt-2">
-                                    Netflix Clone is a web application that allow the users to explore movies. It has also a Sign up and Login feature and the user can also save their favorite movies in their account. This web app is made with ReactJS, fetching API, and Firebase.
+                                <p className="text-xs mt-2 text-justify">
+                                    <span className="font-bold text-sm">Netflix Clone</span> is a web application that allow the users to explore movies. It has also a Sign up and Login feature and the user can also save their favorite movies in their account.
+                                </p>
+                                <p className="text-xs mt-2 text-justify">
+                                    This web app is made with ReactJS, fetching API, and Firebase.
                                 </p>
                             </div>
                             <div className="w-full flex justify-end text-xs pb-2">
@@ -139,8 +145,10 @@ const Projects = ({darkMode}) => {
                             </div>
                             <div className="my-2 h-full">
                                 <p className=" text-lg font-bold tracking-wide border-b-[1px] inline">Quizzical</p>
-                                <p className="text-xs mt-2">
-                                    Quizzical is a web-based basic quiz game made with ReactJS and fetching API from opentdb. 
+                                <p className="text-xs mt-2 text-justify">
+                                    <span className="font-bold text-sm">Quizzical</span> is a web-based basic quiz game made with ReactJS and fetching API from opentdb. 
+                                </p>
+                                <p className="text-xs mt-2 text-justify">
                                     This is the solo project task I accomplished when learning ReactJS from freecodecamp.
                                 </p>
                             </div>

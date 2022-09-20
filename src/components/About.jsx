@@ -45,6 +45,15 @@ const About = ({darkMode}) => {
                             </p>
                         </div>
                     </div>
+                    <div className="max-w-[50%] lg:hidden flex justify-center items-center w-full mx-auto mt-6">
+                        <a href="https://drive.google.com/file/d/1ERhG1BRAEZov6yoOOsF-fswpRE3k1RvR/view?usp=sharing"
+                            target="_blank" rel="noopener noreferrer" 
+                            style={{borderColor:  darkMode ? '#A5C9CA' : '#181818', color: darkMode ? '#A5C9CA' : '#181818'}}
+                            className="border-2 text-center px-4 py-2 hover:scale-105 duration-300 font-bold tracking-wide "
+                        >
+                            View Resume
+                        </a>
+                    </div>
                 </div>
             </div>
         

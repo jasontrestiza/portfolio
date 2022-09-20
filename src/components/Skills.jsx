@@ -12,7 +12,7 @@ import {FaReact} from "react-icons/fa"
 
 const Skills = ({darkMode}) => {
     return (
-        <div  name="skills" className="  text-white w-full h-screen duration-300" style={{backgroundColor: darkMode ? '#1b2430' : '#DDDDDD', color: darkMode ? '#A5C9CA' : '#181818'}}>
+        <div id="skills" className="  text-white w-full h-screen duration-300" style={{backgroundColor: darkMode ? '#1b2430' : '#DDDDDD', color: darkMode ? '#A5C9CA' : '#181818'}}>
             <div data-aos="fade-up" className="flex flex-col justify-center p-4 max-w-[1000px] mx-auto w-full h-full ">
                 <div>
                     <p className="inline text-4xl font-bold border-b-2" >&lt;Skills /&gt;</p>

@@ -10,9 +10,10 @@ const Navbar = ({navIconClicked,darkMode,handleClick,toggleLight}) => {
     
     const [scroll,setScroll] = React.useState(0)
   
-    let lastScroll = 0;
+   
 
     React.useEffect(()=>{
+        let lastScroll = 0;
         window.addEventListener('scroll', function(e){
             lastScroll = window.scrollY;
             setScroll(lastScroll)
@@ -90,7 +91,7 @@ const Navbar = ({navIconClicked,darkMode,handleClick,toggleLight}) => {
                     </Link>
                 </li>
                 <li className="py-4 text-2xl">
-                    <Link onClick={handleClick} to="skills" smooth={true} offset={-20} duration={500}>
+                    <Link onClick={handleClick} to="skills" smooth={true} offset={-50} duration={500}>
                         Skills
                     </Link>
                 </li>
