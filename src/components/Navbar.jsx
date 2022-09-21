@@ -126,7 +126,7 @@ const Navbar = ({navIconClicked,darkMode,handleClick,toggleLight}) => {
                            
                     </li>
                     <li  className="border-[1px] h-[50px] w-[160px] flex justify-between items-center bg-black/10 ml-[-105px] hover:ml-[-10px] duration-300 ">
-                        <a className="flex justify-between items-center w-full" href="https://drive.google.com/file/d/1ERhG1BRAEZov6yoOOsF-fswpRE3k1RvR/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                        <a className="flex justify-between items-center w-full" href="https://drive.google.com/file/d/1xlBAthhHP3B4xwxNgSloQJNd9wvhvPdf/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                             Resume<BsFillPersonLinesFill size={30}/>
                         </a>
                     </li>
