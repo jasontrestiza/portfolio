@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b085ce65.css",
-    "main.js": "/portfolio/static/js/main.c763b10e.js",
+    "main.js": "/portfolio/static/js/main.00b81c04.js",
     "static/media/netflix-clone.PNG": "/portfolio/static/media/netflix-clone.0bbc23460e1d1bd25c89.PNG",
     "static/media/weather-app.PNG": "/portfolio/static/media/weather-app.dcf78dfaa24348d1f865.PNG",
     "static/media/covid19-tracker.PNG": "/portfolio/static/media/covid19-tracker.c3cd142beed8555ab53d.PNG",
     "static/media/quizzical.PNG": "/portfolio/static/media/quizzical.40f80ebf5567b3dbe9aa.PNG",
     "index.html": "/portfolio/index.html",
     "main.b085ce65.css.map": "/portfolio/static/css/main.b085ce65.css.map",
-    "main.c763b10e.js.map": "/portfolio/static/js/main.c763b10e.js.map"
+    "main.00b81c04.js.map": "/portfolio/static/js/main.00b81c04.js.map"
   },
   "entrypoints": [
     "static/css/main.b085ce65.css",
-    "static/js/main.c763b10e.js"
+    "static/js/main.00b81c04.js"
   ]
 }
